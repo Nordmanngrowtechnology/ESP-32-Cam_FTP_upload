@@ -35,6 +35,8 @@ picture_time_from=6
 picture_time_to=24
 picture_interval_time_ms=
 
+img_name_prefix=
+
 wifi_ssid=
 wifi_pass=
 
@@ -44,3 +46,16 @@ ftp_user=
 ftp_pass=
 ftp_directory=
 ```
+
+### Help for pinout of Cam Modul SD slot
+
+More on https://github.com/espressif/arduino-esp32/tree/master/libraries/SD_MMC
+
+| Micro SD-Card slot | ESP32-CAM |
+|--------------------|-----------|
+| CLK                | GIPO 14   |
+| CMD                | GIPO 15   |
+| DATA0              | GIPO 2    |
+| DATA1 / Flashlight | GIPO 4    |
+| DATA2              | GIPO 12   |
+| DATA3              | GIPO 13   |
