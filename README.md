@@ -59,3 +59,8 @@ More on https://github.com/espressif/arduino-esp32/tree/master/libraries/SD_MMC
 | DATA1 / Flashlight | GIPO 4    |
 | DATA2              | GIPO 12   |
 | DATA3              | GIPO 13   |
+
+### Used Libs as inspiration
+https://github.com/tzapu/WiFiManager
+https://github.com/alanesq/CameraWifiMotion/tree/master
+https://randomnerdtutorials.com/esp32-microsd-card-arduino/
