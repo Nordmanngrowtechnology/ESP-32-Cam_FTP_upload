@@ -1,0 +1,12 @@
+picture_time_from=6
+picture_time_to=24
+picture_interval_time_ms=
+
+wifi_ssid=
+wifi_pass=
+
+ftp_server=
+ftp_port=
+ftp_user=
+ftp_pass=
+ftp_directory=
